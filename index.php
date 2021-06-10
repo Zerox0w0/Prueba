@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>codigo modificado desde carpeta prueba</h1>
+    <h1>codigo generado en la rama develop</h1>
 </body>
 </html>
