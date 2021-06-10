@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>codigo modificado desde la rama main</h1>
+    <h1>codigo modificado desde la rama principal</h1>
 </body>
 </html>
